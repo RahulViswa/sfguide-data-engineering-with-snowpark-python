@@ -5,3 +5,11 @@
 #export SNOWFLAKE_CONNECTIONS_DEFAULT_PASSWORD=""
 
 default_connection_name = "default"
+[connections.default]
+account = "HIFKRTV-SD46551"
+user = "RahulViswa"
+password = "Visw@1234"
+role = "HOL_ROLE"
+warehouse = "HOL_WH"
+database = "HOL_DB"
+schema = "ANALYTICS"
